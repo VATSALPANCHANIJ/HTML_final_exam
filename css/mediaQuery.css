@@ -1,0 +1,265 @@
+@media (max-width: 575px) {
+    .inputbox {
+        display: none;
+    }
+    header {
+        display: none;
+    }
+    .navbar button {
+        display: none;
+    }
+    .digital-1 .row ,.top-creators .row {
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .digital-1 .row .space .row {
+        justify-content: start !important;
+        align-items: center !important;
+    }
+}
+@media (min-width: 576px) {
+    /* For desktop: */
+    .col-1 {
+        width: 8.33%;
+    }
+    .col-2 {
+        width: 16.66%;
+    }
+    .col-3 {
+        width: 25%;
+    }
+    .col-4 {
+        width: 33.33%;
+    }
+    .col-5 {
+        width: 41.66%;
+    }
+    .col-6 {
+        width: 50%;
+    }
+    .col-7 {
+        width: 58.33%;
+    }
+    .col-8 {
+        width: 66.66%;
+    }
+    .col-9 {
+        width: 75%;
+    }
+    .col-10 {
+        width: 83.33%;
+    }
+    .col-11 {
+        width: 91.66%;
+    }
+    .col-12 {
+        width: 100%;
+    }
+    .inputbox {
+        display: none;
+    }
+
+    header {
+        display: none;
+    }
+    .digital-1 .row {
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .digital-1 .row .space .row {
+        justify-content: start !important;
+        align-items: center !important;
+    }
+    .discover-2{
+        display: none;
+    }
+}
+@media (min-width: 768px) {
+    .col-md-1 {
+        width: 8.3333%;
+    }
+    .col-md-2 {
+        width: 16.6666%;
+    }
+    .col-md-3 {
+        width: 25%;
+    }
+    .col-md-4 {
+        width: 33.33%;
+    }
+    .col-md-5 {
+        width: 41.99%;
+    }
+    .col-md-6 {
+        width: 50%;
+    }
+    .col-md-7 {
+        width: 58.33%;
+    }
+    .col-md-8 {
+        width: 66.66%;
+    }
+    .col-md-9 {
+        width: 75%;
+    }
+    .col-md-10 {
+        width: 83.32%;
+    }
+    .col-md-11 {
+        width: 91.65%;
+    }
+    .col-md-12 {
+        width: 100%;
+    }
+
+    .inputbox {
+        display: none;
+    }
+    /* .navbar button .btn{
+        display: none;
+    } */
+    header {
+        display: block;
+    }
+    .digital-1 button {
+        margin: 0 auto;
+    }
+}
+@media (min-width: 992px) {
+    .col-lg-1 {
+        width: 8.3333%;
+    }
+    .col-lg-2 {
+        width: 16.6666%;
+    }
+    .col-lg-3 {
+        width: 25%;
+    }
+    .col-lg-4 {
+        width: 33.33%;
+    }
+    .col-lg-5 {
+        width: 41.99%;
+    }
+    .col-lg-6 {
+        width: 50%;
+    }
+    .col-lg-7 {
+        width: 58.33%;
+    }
+    .col-lg-8 {
+        width: 66.66%;
+    }
+    .col-lg-9 {
+        width: 75%;
+    }
+    .col-lg-10 {
+        width: 83.32%;
+    }
+    .col-lg-11 {
+        width: 91.65%;
+    }
+    .col-lg-12 {
+        width: 100%;
+    }
+    .inputbox {
+        display: none;
+    }
+    .discover-2{
+        display: block;
+    }
+   
+}
+@media (min-width: 1200px) {
+    .col-xl-1 {
+        width: 8.3333%;
+    }
+    .col-xl-2 {
+        width: 16.6666%;
+    }
+    .col-xl-3 {
+        width: 25%;
+    }
+    .col-xl-4 {
+        width: 33.33%;
+    }
+    .col-xl-5 {
+        width: 41.99%;
+    }
+    .col-xl-6 {
+        width: 50%;
+    }
+    .col-xl-7 {
+        width: 58.33%;
+    }
+    .col-xl-8 {
+        width: 66.66%;
+    }
+    .col-xl-9 {
+        width: 75%;
+    }
+    .col-xl-10 {
+        width: 83.32%;
+    }
+    .col-xl-11 {
+        width: 91.65%;
+    }
+    .col-xl-12 {
+        width: 100%;
+    }
+    .inputbox {
+        display: block;
+    }
+
+    /* .navbar button .btn{
+        display: block;
+    } */
+    .discover-2{
+        display: block;
+    }
+}
+
+@media (max-width: 1400px) {
+    .col-xxl-1 {
+        width: 8.3333%;
+    }
+    .col-xxl-2 {
+        width: 16.6666%;
+    }
+    .col-xxl-3 {
+        width: 25%;
+    }
+    .col-xxl-4 {
+        width: 33.33%;
+    }
+    .col-xxl-5 {
+        width: 41.99%;
+    }
+    .col-xxl-6 {
+        width: 50%;
+    }
+    .col-xxl-7 {
+        width: 58.33%;
+    }
+    .col-xxl-8 {
+        width: 66.66%;
+    }
+    .col-xxl-9 {
+        width: 75%;
+    }
+    .col-xxl-10 {
+        width: 83.32%;
+    }
+    .col-xxl-11 {
+        width: 91.65%;
+    }
+    .col-xxl-12 {
+        width: 100%;
+    }
+    .discover-2{
+        display: block;
+    }
+    /* .navbar button .btn{
+        display: block;
+    } */
+}
